@@ -1,0 +1,9 @@
+README.md
+setup.py
+thimDri/__init__.py
+thimDri/pre_process.py
+thimDri.egg-info/PKG-INFO
+thimDri.egg-info/SOURCES.txt
+thimDri.egg-info/dependency_links.txt
+thimDri.egg-info/requires.txt
+thimDri.egg-info/top_level.txt
