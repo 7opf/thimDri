@@ -1,2 +1,5 @@
 # exclude everything
 env/*
+build/*
+dist/*
+thim_dri.egg-info/*
